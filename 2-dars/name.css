@@ -1,0 +1,192 @@
+                                                                * {
+                                                                margin: 0;
+                                                                padding: 0;
+                                                                box-sizing: border-box;
+                                                            }
+                                                            
+                                                            .box {
+                                                                width: 1440px;
+                                                                height: 10891px;
+                                                                background-color: blueviolet;
+                                                                margin: 0 auto;
+                                                                margin-top: 100px;
+                                                            }
+                                                            
+                                                            .box1 {
+                                                                width: 1440px;
+                                                                height: 69px;
+                                                                margin: 0 auto;
+                                                            }
+                                                            
+                                                            .icon {
+                                                                width: 156px;
+                                                                height: 29px;
+                                                                padding: 6px 10px 4px 10px;
+                                                                margin: -26px 1160px;
+                                                            }
+                                                            
+                                                            .facke {
+                                                                margin-right: 12px;
+                                                            }
+                                                            
+                                                            h4 {
+                                                                font-family: Inter;
+                                                                font-size: 17px;
+                                                                font-weight: 400;
+                                                                line-height: 27px;
+                                                                letter-spacing: 0.36000001430511475px;
+                                                                text-align: left;
+                                                                padding: 21px 0 0 120px;
+                                                            }
+                                                            
+                                                            .box2 {
+                                                                width: 1200px;
+                                                                height: 128px;
+                                                                margin: 44px 120px 69px 120px;
+                                                            }
+                                                            
+                                                            .bluecollar {
+                                                                margin: 40px 958px 40px 0px;
+                                                            }
+                                                            
+                                                            .box3 {
+                                                                width: 622.25px;
+                                                                height: 68px;
+                                                                top: 30px;
+                                                                left: 577.75px;
+                                                                padding: 65px;
+                                                                margin: -133px 0px 30px 577.75px;
+                                                            }
+                                                            
+                                                            .email {
+                                                                width: 257.84px;
+                                                                height: 68px;
+                                                                left: 65px;
+                                                                padding: 0.25px;
+                                                                margin: -35px 0px 0px -65px;
+                                                            }
+                                                            
+                                                            .texti {
+                                                                margin-top: -90px;
+                                                                margin-left: -40px;
+                                                            }
+                                                            
+                                                            .cal {
+                                                                width: 257.84px;
+                                                                height: 68px;
+                                                                left: 65px;
+                                                                padding: 0.25px;
+                                                                margin: -68px 0px 0px 300px;
+                                                            }
+                                                            
+                                                            .texte {
+                                                                margin-top: -90px;
+                                                                margin-left: -40px;
+                                                            }
+                                                            
+                                                            .img-1 {
+                                                                width: 1440px;
+                                                                height: 813px;
+                                                                position: absolute;
+                                                                margin-left: -120px;
+                                                            }
+                                                            
+                                                            .a {
+                                                                width: 1200px;
+                                                                height: 70px;
+                                                                margin-left: 400px;
+                                                                margin-left: -665px;
+                                                                margin-top: 30px;
+                                                                position: absolute;
+                                                                z-index: 1px;
+                                                                background-color: #FFB342;
+                                                                display: flex;
+                                                                flex-direction: row;
+                                                                flex-wrap: wrap;
+                                                                justify-content: space-around;
+                                                                align-items: center;
+                                                                font-family: Inter;
+                                                                font-size: 20px;
+                                                                font-weight: 400;
+                                                                line-height: 30px;
+                                                                letter-spacing: 0.36000001430511475px;
+                                                                text-align: left;
+                                                            }
+                                                            
+                                                            .but {
+                                                                width: 200px;
+                                                                height: 50px;
+                                                                margin-left: 200px;
+                                                                border: none;
+                                                                background: #1C2752;
+                                                                color: white;
+                                                            }
+                                                            
+                                                            .box-4 {
+                                                                width: 720px;
+                                                                height: 332.98px;
+                                                                position: absolute;
+                                                                margin-top: 418px;
+                                                            }
+                                                            
+                                                            .box-5 h2 {
+                                                                width: 600px;
+                                                                height: 29px;
+                                                                font-family: Inter;
+                                                                font-size: 18px;
+                                                                font-weight: 400;
+                                                                line-height: 27px;
+                                                                letter-spacing: 0.36000001430511475px;
+                                                                text-align: center;
+                                                                background-color: #FFFFFF33;
+                                                                color: #fff;
+                                                            }
+                                                            
+                                                            .box-5 h1 {
+                                                                width: 712px;
+                                                                height: 156px;
+                                                                font-family: Mulish;
+                                                                font-size: 60px;
+                                                                font-weight: 400;
+                                                                line-height: 78px;
+                                                                letter-spacing: 1.2000000476837158px;
+                                                                text-align: left;
+                                                                margin-top: 60px;
+                                                                color: #fff;
+                                                            }
+                                                            
+                                                            .img-2 {
+                                                                width: 30px;
+                                                                height: 29px;
+                                                                margin-top: -245px;
+                                                                position: absolute;
+                                                                margin-left: 30px;
+                                                            }
+                                                            
+                                                            .button {
+                                                                width: 227px;
+                                                                height: 68px;
+                                                                position: absolute;
+                                                                background-color: #FFB342;
+                                                                color: #1C2752;
+                                                                margin-top: 15px;
+                                                                border: none;
+                                                                font-family: Inter;
+                                                                font-size: 20px;
+                                                                font-weight: 400;
+                                                                line-height: 30px;
+                                                                letter-spacing: 0.36000001430511475px;
+                                                                text-align: center;
+                                                                .box-6 {
+                                                                    width: 1200px;
+                                                                    height: 581.38px;
+                                                                    background-color: blueviolet;
+                                                                    position: absolute;
+                                                                    margin-top: 1000px;
+                                                                }
+                                                                .img-3 {
+                                                                    width: 575px;
+                                                                    height: 581px;
+                                                                    position: absolute;
+                                                                    margin-top: -1000px;
+                                                                }
